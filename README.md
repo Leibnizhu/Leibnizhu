@@ -1,9 +1,7 @@
 ### Hi there 👋
 <img src="https://www.codewars.com/users/Leibnizhu/badges/large" alt="Codewar's Profile" width="400" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leibnizhu&hide=html,css,scss&layout=compact" alt="Top Langs" width="400" />
-
-<img src="https://github-readme-stats.vercel.app/api?username=Leibnizhu&show_icons=true&count_private=true&theme=dracula" alt="Leibniz.Hu's github stats" width="400" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leibnizhu&hide=html,css,scss&layout=compact" alt="Top Langs" height="175" /><img src="https://github-readme-stats.vercel.app/api?username=Leibnizhu&show_icons=true&count_private=true&theme=dracula" alt="Leibniz.Hu's github stats" height="175" />
 
 
 <!--
