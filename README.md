@@ -1,7 +1,10 @@
 ### Hi there 👋
-![](https://www.codewars.com/users/Leibnizhu/badges/large)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leibnizhu&hide=html,css,scss&layout=compact)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Leibnizhu&show_icons=true&count_private=true&theme=dracula)
+<img src="https://www.codewars.com/users/Leibnizhu/badges/large" alt="Codewar's Profile" width="400" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leibnizhu&hide=html,css,scss&layout=compact" alt="Top Langs" width="400" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=Leibnizhu&show_icons=true&count_private=true&theme=dracula" alt="Leibniz.Hu's github stats" width="400" />
+
 
 <!--
 **Leibnizhu/Leibnizhu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
